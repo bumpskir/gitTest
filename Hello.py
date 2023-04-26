@@ -2,4 +2,5 @@
 name = input("What is your name? ").title().strip()
 day = input("What day is it? ")
 
+# This is just displaying what was input with a message
 print(f"How is it going {name}, it is {day} today, hope you have a great day {name}")
