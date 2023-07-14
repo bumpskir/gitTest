@@ -2,7 +2,7 @@
 # input to get the users name
 name = input("What is your name? ").title().strip()
 # input to get the day of the week
-day = input("What day is it? ")
+day = input("What day is it? ").strip()
 # finish touch
 name2 = "HomeSlice"
 # This is just displaying what was input with a message
